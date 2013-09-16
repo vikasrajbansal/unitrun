@@ -29,7 +29,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		A4F53BA117E76F2F00815246 /* PBXContainerItemProxy */ = {
+		A414DC0417E7C1090072C4F8 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = A4350CA917E11E9500285D36 /* Project object */;
 			proxyType = 1;
@@ -211,7 +211,7 @@
 			buildRules = (
 			);
 			dependencies = (
-				A4F53BA217E76F2F00815246 /* PBXTargetDependency */,
+				A414DC0517E7C1090072C4F8 /* PBXTargetDependency */,
 			);
 			name = AppLogicTests;
 			productName = AppLogicTests;
@@ -309,10 +309,10 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		A4F53BA217E76F2F00815246 /* PBXTargetDependency */ = {
+		A414DC0517E7C1090072C4F8 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = A4350CB017E11E9600285D36 /* TestProj */;
-			targetProxy = A4F53BA117E76F2F00815246 /* PBXContainerItemProxy */;
+			targetProxy = A414DC0417E7C1090072C4F8 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
