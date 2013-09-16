@@ -1,0 +1,557 @@
+TTestProj
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app/Info.plist TestProj/TestProj-Info.plist
+cCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist build/Release-iphoneos/TestProj.app/ResourceRules.plist
+cProcessPCH /var/folders/yk/lh113x4x5z5fnws_3m5ln6b9t_f044/C/com.apple.Xcode.1957101700/SharedPrecompiledHeaders/TestProj-Prefix-alsaxerykdzlaacvdeuhwhheepjk/TestProj-Prefix.pch.pth TestProj/TestProj-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/yk/lh113x4x5z5fnws_3m5ln6b9t_f044/C/com.apple.Xcode.1957101700/SharedPrecompiledHeaders/TestProj-Prefix-aptjasubttscrickkkuprzjulnhj/TestProj-Prefix.pch.pth TestProj/TestProj-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/CalculatorTest.o /Users/vbans1/Desktop/UnitTest/BusinessLogic/../CalculatorTest.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/main.o /Users/vbans1/Desktop/UnitTest/TestProj/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/AppDelegate.o /Users/vbans1/Desktop/UnitTest/TestProj/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/ViewController.o /Users/vbans1/Desktop/UnitTest/TestProj/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/main.o /Users/vbans1/Desktop/UnitTest/TestProj/main.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/AppDelegate.o /Users/vbans1/Desktop/UnitTest/TestProj/AppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/ViewController.o /Users/vbans1/Desktop/UnitTest/TestProj/ViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/CalculatorTest.o /Users/vbans1/Desktop/UnitTest/BusinessLogic/../CalculatorTest.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/TestProj normal armv7
+cLd /Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/TestProj normal armv7s
+cCreateUniversalBinary /Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app/TestProj normal "armv7 armv7s"
+cGenerateDSYMFile /Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app.dSYM /Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app/TestProj
+cCopyStringsFile /Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app/en.lproj/InfoPlist.strings TestProj/en.lproj/InfoPlist.strings
+cCopyPNGFile /Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app/Default@2x.png TestProj/Default@2x.png
+cCopyPNGFile /Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app/Default.png TestProj/Default.png
+cCopyPNGFile /Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app/Default-568h@2x.png TestProj/Default-568h@2x.png
+cCompileStoryboard /Users/vbans1/Desktop/UnitTest/TestProj/en.lproj/MainStoryboard_iPhone.storyboard
+cCompileStoryboard /Users/vbans1/Desktop/UnitTest/TestProj/en.lproj/MainStoryboard_iPad.storyboard
+cProcessProductPackaging "/Users/vbans1/Library/MobileDevice/Provisioning Profiles/4350B450-94A0-4855-9B61-F888EF3EABF2.mobileprovision" /Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app/embedded.mobileprovision
+cProcessProductPackaging "/Users/vbans1/Library/MobileDevice/Provisioning Profiles/4350B450-94A0-4855-9B61-F888EF3EABF2.mobileprovision" /Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app/embedded.mobileprovision
+cTouch /Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app
+cProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist /Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj.xcent
+cCodeSign /Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app
+cValidate /Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk
+c0000000050ED385D0000000000000110
+t1357723741
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist
+c0000000051649D0700000000000001A7
+t1365548295
+s423
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist
+c0000000051649D0700000000000001E5
+t1365548295
+s485
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000051649D130000000000322700
+t1365548307
+s3286784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000051649D16000000000062AD10
+t1365548310
+s6466832
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c0000000051649D1600000000000015F7
+t1365548310
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c0000000051649D1D0000000000000E8D
+t1365548317
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000051649D1F00000000011BCDF0
+t1365548319
+s18599408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/usr/include/Availability.h
+c0000000051649D2F0000000000001B73
+t1365548335
+s7027
+
+N/Users/vbans1/Desktop/UnitTest/BusinessLogic/../CalculatorTest.m
+c00000000523744330000000000000239
+t1379353651
+s569
+
+N/Users/vbans1/Desktop/UnitTest/TestProj/AppDelegate.m
+c00000000523779C800000000000007F0
+t1379367368
+s2032
+
+N/Users/vbans1/Desktop/UnitTest/TestProj/Default-568h@2x.png
+c00000000515C9E6200000000000048A2
+t1365024354
+s18594
+
+N/Users/vbans1/Desktop/UnitTest/TestProj/Default.png
+c00000000515C9E62000000000000198C
+t1365024354
+s6540
+
+N/Users/vbans1/Desktop/UnitTest/TestProj/Default@2x.png
+c00000000515C9E620000000000003EEB
+t1365024354
+s16107
+
+N/Users/vbans1/Desktop/UnitTest/TestProj/TestProj-Prefix.pch
+c000000005230E716000000000000013F
+t1378936598
+s319
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/vbans1/Desktop/UnitTest/TestProj/ViewController.m
+c000000005231E2ED000000000000023A
+t1379001069
+s570
+
+N/Users/vbans1/Desktop/UnitTest/TestProj/en.lproj/InfoPlist.strings
+c00000000523779B1000000000000002C
+t1379367345
+s44
+
+N/Users/vbans1/Desktop/UnitTest/TestProj/en.lproj/MainStoryboard_iPad.storyboard
+c000000005230E716000000000000061D
+t1378936598
+s1565
+
+N/Users/vbans1/Desktop/UnitTest/TestProj/en.lproj/MainStoryboard_iPhone.storyboard
+c000000005230E7E30000000000001401
+t1378936803
+s5121
+
+N/Users/vbans1/Desktop/UnitTest/TestProj/main.m
+c000000005230E7160000000000000161
+t1378936598
+s353
+
+N/Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app
+t2
+s0
+
+N/Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app.dSYM
+t2
+s0
+
+N/Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app/Default-568h@2x.png
+t2
+s0
+
+N/Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app/Default.png
+t2
+s0
+
+N/Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app/Default@2x.png
+t2
+s0
+
+N/Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app/Info.plist
+t2
+s0
+
+N/Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app/PkgInfo
+t2
+s0
+
+N/Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app/ResourceRules.plist
+t2
+s0
+
+N/Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app/TestProj
+t2
+s0
+
+N/Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app/embedded.mobileprovision
+t2
+s0
+
+N/Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app/en.lproj/MainStoryboard_iPad.storyboardc
+t2
+s0
+
+N/Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app/en.lproj/MainStoryboard_iPhone.storyboardc
+t2
+s0
+
+N/Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/AppDelegate.o
+t2
+s0
+
+N/Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/CalculatorTest.o
+t2
+s0
+
+N/Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/TestProj
+t2
+s0
+
+N/Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/TestProj.LinkFileList
+c0000000052377F2F00000000000001DB
+t1379368751
+s475
+
+N/Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/ViewController.o
+t2
+s0
+
+N/Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/main.o
+t2
+s0
+
+N/Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/AppDelegate.o
+t2
+s0
+
+N/Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/CalculatorTest.o
+t2
+s0
+
+N/Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/TestProj
+t2
+s0
+
+N/Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/TestProj.LinkFileList
+c0000000052377F2F00000000000001DF
+t1379368751
+s479
+
+N/Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/ViewController.o
+t2
+s0
+
+N/Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/main.o
+t2
+s0
+
+N/Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj.xcent
+t2
+s0
+
+N/Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/com.apple.build-tools.platform.validate
+t2
+s0
+
+N/Users/vbans1/Library/MobileDevice/Provisioning Profiles/4350B450-94A0-4855-9B61-F888EF3EABF2.mobileprovision
+c000000005231FBA200000000000028C1
+t1379007394
+s10433
+
+N/var/folders/yk/lh113x4x5z5fnws_3m5ln6b9t_f044/C/com.apple.Xcode.1957101700/SharedPrecompiledHeaders/TestProj-Prefix-alsaxerykdzlaacvdeuhwhheepjk/TestProj-Prefix.pch.pth
+t2
+s0
+
+N/var/folders/yk/lh113x4x5z5fnws_3m5ln6b9t_f044/C/com.apple.Xcode.1957101700/SharedPrecompiledHeaders/TestProj-Prefix-aptjasubttscrickkkuprzjulnhj/TestProj-Prefix.pch.pth
+t2
+s0
+
+NTestProj/TestProj-Info.plist
+c000000005230E716000000000000063E
+t1378936598
+s1598
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesd2e2fcaeb6e7b741^a2601aafb6e7b741^---0#1#0#--18"Check dependencies36"510BA3F2-AB7B-4DC0-8FBD-8BA75037855C-
+
+CCodeSign /Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app
+s401061552.982261
+e401061553.374855
+r1
+xCodeSign
+x/Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"CodeSign build/Release-iphoneos/TestProj.app268ffbb0b6e7b741^e5ee5fb1b6e7b741^---0#0#0#-19%DVTDocumentLocation2@83"file://localhost/Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app/0000000000000000^804"CodeSign build/Release-iphoneos/TestProj.app    cd /Users/vbans1/Desktop/UnitTest    setenv CODESIGN_ALLOCATE /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /usr/bin/codesign --force --sign 227b97a44696563971ef887a4dafff63942197f4 --resource-rules=/Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app/ResourceRules.plist --entitlements /Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj.xcent /Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app36"F40B212D-34BD-40D7-953C-646541F81986-
+
+CCompileC build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/AppDelegate.o /Users/vbans1/Desktop/UnitTest/TestProj/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s401061551.416696
+e401061551.528986
+r1
+xCompileC
+xbuild/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/AppDelegate.o
+x/Users/vbans1/Desktop/UnitTest/TestProj/AppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compile /Users/vbans1/Desktop/UnitTest/TestProj/AppDelegate.m07d16aafb6e7b741^587087afb6e7b741^---0#0#0#-19%DVTDocumentLocation2@69"file://localhost/Users/vbans1/Desktop/UnitTest/TestProj/AppDelegate.m0000000000000000^3283"CompileC build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/AppDelegate.o TestProj/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/vbans1/Desktop/UnitTest    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj-generated-files.hmap -I/Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj-own-target-headers.hmap -I/Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj-all-target-headers.hmap -iquote /Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj-project-headers.hmap -I/Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/DerivedSources/armv7 -I/Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/DerivedSources -F/Users/vbans1/Desktop/UnitTest/build/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/yk/lh113x4x5z5fnws_3m5ln6b9t_f044/C/com.apple.Xcode.1957101700/SharedPrecompiledHeaders/TestProj-Prefix-alsaxerykdzlaacvdeuhwhheepjk/TestProj-Prefix.pch -MMD -MT dependencies -MF /Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/AppDelegate.d --serialize-diagnostics /Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/AppDelegate.dia -c /Users/vbans1/Desktop/UnitTest/TestProj/AppDelegate.m -o /Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/AppDelegate.o36"53BC80C7-9461-4D4D-96A0-84ECAF1699E3-
+
+CCompileC build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/CalculatorTest.o /Users/vbans1/Desktop/UnitTest/BusinessLogic/../CalculatorTest.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s401061551.415226
+e401061551.494758
+r1
+xCompileC
+xbuild/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/CalculatorTest.o
+x/Users/vbans1/Desktop/UnitTest/BusinessLogic/../CalculatorTest.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/vbans1/Desktop/UnitTest/BusinessLogic/../CalculatorTest.m2db56aafb6e7b741^5bb27eafb6e7b741^---0#0#0#-19%DVTDocumentLocation2@80"file://localhost/Users/vbans1/Desktop/UnitTest/BusinessLogic/../CalculatorTest.m0000000000000000^3317"CompileC build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/CalculatorTest.o BusinessLogic/../CalculatorTest.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/vbans1/Desktop/UnitTest    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj-generated-files.hmap -I/Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj-own-target-headers.hmap -I/Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj-all-target-headers.hmap -iquote /Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj-project-headers.hmap -I/Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/DerivedSources/armv7 -I/Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/DerivedSources -F/Users/vbans1/Desktop/UnitTest/build/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/yk/lh113x4x5z5fnws_3m5ln6b9t_f044/C/com.apple.Xcode.1957101700/SharedPrecompiledHeaders/TestProj-Prefix-alsaxerykdzlaacvdeuhwhheepjk/TestProj-Prefix.pch -MMD -MT dependencies -MF /Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/CalculatorTest.d --serialize-diagnostics /Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/CalculatorTest.dia -c /Users/vbans1/Desktop/UnitTest/BusinessLogic/../CalculatorTest.m -o /Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/CalculatorTest.o36"C95B5D1D-FD28-40FF-A7F8-2A8D395BA55A-
+
+CCompileC build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/ViewController.o /Users/vbans1/Desktop/UnitTest/TestProj/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s401061551.421113
+e401061551.535070
+r1
+xCompileC
+xbuild/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/ViewController.o
+x/Users/vbans1/Desktop/UnitTest/TestProj/ViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compile /Users/vbans1/Desktop/UnitTest/TestProj/ViewController.mebe56bafb6e7b741^ea0789afb6e7b741^---0#0#0#-19%DVTDocumentLocation2@72"file://localhost/Users/vbans1/Desktop/UnitTest/TestProj/ViewController.m0000000000000000^3301"CompileC build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/ViewController.o TestProj/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/vbans1/Desktop/UnitTest    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj-generated-files.hmap -I/Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj-own-target-headers.hmap -I/Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj-all-target-headers.hmap -iquote /Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj-project-headers.hmap -I/Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/DerivedSources/armv7 -I/Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/DerivedSources -F/Users/vbans1/Desktop/UnitTest/build/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/yk/lh113x4x5z5fnws_3m5ln6b9t_f044/C/com.apple.Xcode.1957101700/SharedPrecompiledHeaders/TestProj-Prefix-alsaxerykdzlaacvdeuhwhheepjk/TestProj-Prefix.pch -MMD -MT dependencies -MF /Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/ViewController.d --serialize-diagnostics /Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/ViewController.dia -c /Users/vbans1/Desktop/UnitTest/TestProj/ViewController.m -o /Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/ViewController.o36"FE26B226-9A7B-4A5F-82C8-432B6310A9DD-
+
+CCompileC build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/main.o /Users/vbans1/Desktop/UnitTest/TestProj/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s401061551.415968
+e401061551.485558
+r1
+xCompileC
+xbuild/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/main.o
+x/Users/vbans1/Desktop/UnitTest/TestProj/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Compile /Users/vbans1/Desktop/UnitTest/TestProj/main.m1cb56aafb6e7b741^cc7b7cafb6e7b741^---0#0#0#-19%DVTDocumentLocation2@62"file://localhost/Users/vbans1/Desktop/UnitTest/TestProj/main.m0000000000000000^3241"CompileC build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/main.o TestProj/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/vbans1/Desktop/UnitTest    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj-generated-files.hmap -I/Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj-own-target-headers.hmap -I/Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj-all-target-headers.hmap -iquote /Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj-project-headers.hmap -I/Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/DerivedSources/armv7 -I/Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/DerivedSources -F/Users/vbans1/Desktop/UnitTest/build/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/yk/lh113x4x5z5fnws_3m5ln6b9t_f044/C/com.apple.Xcode.1957101700/SharedPrecompiledHeaders/TestProj-Prefix-alsaxerykdzlaacvdeuhwhheepjk/TestProj-Prefix.pch -MMD -MT dependencies -MF /Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/main.d --serialize-diagnostics /Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/main.dia -c /Users/vbans1/Desktop/UnitTest/TestProj/main.m -o /Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/main.o36"9D02BF8E-05E8-4531-B30A-8630878A5753-
+
+CCompileC build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/AppDelegate.o /Users/vbans1/Desktop/UnitTest/TestProj/AppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s401061551.495952
+e401061551.595184
+r1
+xCompileC
+xbuild/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/AppDelegate.o
+x/Users/vbans1/Desktop/UnitTest/TestProj/AppDelegate.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compile /Users/vbans1/Desktop/UnitTest/TestProj/AppDelegate.m0d197fafb6e7b741^2d5e98afb6e7b741^---0#0#0#-19%DVTDocumentLocation2@69"file://localhost/Users/vbans1/Desktop/UnitTest/TestProj/AppDelegate.m0000000000000000^3290"CompileC build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/AppDelegate.o TestProj/AppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/vbans1/Desktop/UnitTest    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj-generated-files.hmap -I/Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj-own-target-headers.hmap -I/Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj-all-target-headers.hmap -iquote /Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj-project-headers.hmap -I/Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/DerivedSources/armv7s -I/Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/DerivedSources -F/Users/vbans1/Desktop/UnitTest/build/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/yk/lh113x4x5z5fnws_3m5ln6b9t_f044/C/com.apple.Xcode.1957101700/SharedPrecompiledHeaders/TestProj-Prefix-aptjasubttscrickkkuprzjulnhj/TestProj-Prefix.pch -MMD -MT dependencies -MF /Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/AppDelegate.d --serialize-diagnostics /Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/AppDelegate.dia -c /Users/vbans1/Desktop/UnitTest/TestProj/AppDelegate.m -o /Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/AppDelegate.o36"80546680-66AE-495E-B0B2-516017A2860F-
+
+CCompileC build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/CalculatorTest.o /Users/vbans1/Desktop/UnitTest/BusinessLogic/../CalculatorTest.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s401061551.536369
+e401061551.579851
+r1
+xCompileC
+xbuild/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/CalculatorTest.o
+x/Users/vbans1/Desktop/UnitTest/BusinessLogic/../CalculatorTest.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/vbans1/Desktop/UnitTest/BusinessLogic/../CalculatorTest.m437389afb6e7b741^738094afb6e7b741^---0#0#0#-19%DVTDocumentLocation2@80"file://localhost/Users/vbans1/Desktop/UnitTest/BusinessLogic/../CalculatorTest.m0000000000000000^3324"CompileC build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/CalculatorTest.o BusinessLogic/../CalculatorTest.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/vbans1/Desktop/UnitTest    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj-generated-files.hmap -I/Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj-own-target-headers.hmap -I/Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj-all-target-headers.hmap -iquote /Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj-project-headers.hmap -I/Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/DerivedSources/armv7s -I/Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/DerivedSources -F/Users/vbans1/Desktop/UnitTest/build/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/yk/lh113x4x5z5fnws_3m5ln6b9t_f044/C/com.apple.Xcode.1957101700/SharedPrecompiledHeaders/TestProj-Prefix-aptjasubttscrickkkuprzjulnhj/TestProj-Prefix.pch -MMD -MT dependencies -MF /Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/CalculatorTest.d --serialize-diagnostics /Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/CalculatorTest.dia -c /Users/vbans1/Desktop/UnitTest/BusinessLogic/../CalculatorTest.m -o /Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/CalculatorTest.o36"FA0FC9F1-CDC7-4B7C-94C4-5FA408226DD6-
+
+CCompileC build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/ViewController.o /Users/vbans1/Desktop/UnitTest/TestProj/ViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s401061551.531587
+e401061551.601971
+r1
+xCompileC
+xbuild/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/ViewController.o
+x/Users/vbans1/Desktop/UnitTest/TestProj/ViewController.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compile /Users/vbans1/Desktop/UnitTest/TestProj/ViewController.m263988afb6e7b741^1e1a9aafb6e7b741^---0#0#0#-19%DVTDocumentLocation2@72"file://localhost/Users/vbans1/Desktop/UnitTest/TestProj/ViewController.m0000000000000000^3308"CompileC build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/ViewController.o TestProj/ViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/vbans1/Desktop/UnitTest    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj-generated-files.hmap -I/Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj-own-target-headers.hmap -I/Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj-all-target-headers.hmap -iquote /Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj-project-headers.hmap -I/Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/DerivedSources/armv7s -I/Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/DerivedSources -F/Users/vbans1/Desktop/UnitTest/build/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/yk/lh113x4x5z5fnws_3m5ln6b9t_f044/C/com.apple.Xcode.1957101700/SharedPrecompiledHeaders/TestProj-Prefix-aptjasubttscrickkkuprzjulnhj/TestProj-Prefix.pch -MMD -MT dependencies -MF /Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/ViewController.d --serialize-diagnostics /Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/ViewController.dia -c /Users/vbans1/Desktop/UnitTest/TestProj/ViewController.m -o /Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/ViewController.o36"B10C67C0-2888-4555-8E08-890EA7644073-
+
+CCompileC build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/main.o /Users/vbans1/Desktop/UnitTest/TestProj/main.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s401061551.486751
+e401061551.535013
+r1
+xCompileC
+xbuild/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/main.o
+x/Users/vbans1/Desktop/UnitTest/TestProj/main.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Compile /Users/vbans1/Desktop/UnitTest/TestProj/main.m7fbf7cafb6e7b741^290589afb6e7b741^---0#0#0#-19%DVTDocumentLocation2@62"file://localhost/Users/vbans1/Desktop/UnitTest/TestProj/main.m0000000000000000^3248"CompileC build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/main.o TestProj/main.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/vbans1/Desktop/UnitTest    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj-generated-files.hmap -I/Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj-own-target-headers.hmap -I/Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj-all-target-headers.hmap -iquote /Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj-project-headers.hmap -I/Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/DerivedSources/armv7s -I/Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/DerivedSources -F/Users/vbans1/Desktop/UnitTest/build/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/yk/lh113x4x5z5fnws_3m5ln6b9t_f044/C/com.apple.Xcode.1957101700/SharedPrecompiledHeaders/TestProj-Prefix-aptjasubttscrickkkuprzjulnhj/TestProj-Prefix.pch -MMD -MT dependencies -MF /Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/main.d --serialize-diagnostics /Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/main.dia -c /Users/vbans1/Desktop/UnitTest/TestProj/main.m -o /Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/main.o36"97FBAB5E-61F2-4CAA-AC53-A57B27E2EB4F-
+
+CCompileStoryboard /Users/vbans1/Desktop/UnitTest/TestProj/en.lproj/MainStoryboard_iPad.storyboard
+s401061551.770240
+e401061552.917368
+r1
+xCompileStoryboard
+x/Users/vbans1/Desktop/UnitTest/TestProj/en.lproj/MainStoryboard_iPad.storyboard
+o2013-09-16 14:59:12.492 Interface Builder Cocoa Touch Tool[45574:f07] CFPreferences: user home directory at file://localhost/Users/vbans1/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"CompileStoryboard TestProj/en.lproj/MainStoryboard_iPad.storyboard6345c5afb6e7b741^d3f7eab0b6e7b741^-239"2013-09-16 14:59:12.492 Interface Builder Cocoa Touch Tool[45574:f07] CFPreferences: user home directory at file://localhost/Users/vbans1/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/vbans1/Desktop/UnitTest/TestProj/en.lproj/MainStoryboard_iPad.storyboard0000000000000000^901"CompileStoryboard TestProj/en.lproj/MainStoryboard_iPad.storyboard    cd /Users/vbans1/Desktop/UnitTest    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app/en.lproj/MainStoryboard_iPad.storyboardc /Users/vbans1/Desktop/UnitTest/TestProj/en.lproj/MainStoryboard_iPad.storyboard --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk36"0AF86288-C103-4959-A641-7E44372FB4BF-
+
+CCompileStoryboard /Users/vbans1/Desktop/UnitTest/TestProj/en.lproj/MainStoryboard_iPhone.storyboard
+s401061551.723530
+e401061552.916878
+r1
+xCompileStoryboard
+x/Users/vbans1/Desktop/UnitTest/TestProj/en.lproj/MainStoryboard_iPhone.storyboard
+o2013-09-16 14:59:12.493 Interface Builder Cocoa Touch Tool[45573:f07] CFPreferences: user home directory at file://localhost/Users/vbans1/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"CompileStoryboard TestProj/en.lproj/MainStoryboard_iPhone.storyboard2a52b9afb6e7b741^58e1eab0b6e7b741^-239"2013-09-16 14:59:12.493 Interface Builder Cocoa Touch Tool[45573:f07] CFPreferences: user home directory at file://localhost/Users/vbans1/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/vbans1/Desktop/UnitTest/TestProj/en.lproj/MainStoryboard_iPhone.storyboard0000000000000000^907"CompileStoryboard TestProj/en.lproj/MainStoryboard_iPhone.storyboard    cd /Users/vbans1/Desktop/UnitTest    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app/en.lproj/MainStoryboard_iPhone.storyboardc /Users/vbans1/Desktop/UnitTest/TestProj/en.lproj/MainStoryboard_iPhone.storyboard --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk36"26D3A328-EA14-477E-BDAA-5B616FCCB246-
+
+CCopyPNGFile /Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app/Default-568h@2x.png TestProj/Default-568h@2x.png
+s401061551.715776
+e401061551.826341
+r1
+xCopyPNGFile
+x/Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app/Default-568h@2x.png
+xTestProj/Default-568h@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"CopyPNGFile build/Release-iphoneos/TestProj.app/Default-568h@2x.png TestProj/Default-568h@2x.png124eb7afb6e7b741^0090d3afb6e7b741^---0#0#0#-19%DVTDocumentLocation2@75"file://localhost/Users/vbans1/Desktop/UnitTest/TestProj/Default-568h@2x.png0000000000000000^626"CopyPNGFile "build/Release-iphoneos/TestProj.app/Default-568h@2x.png" "TestProj/Default-568h@2x.png"    cd /Users/vbans1/Desktop/UnitTest    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/vbans1/Desktop/UnitTest/TestProj/Default-568h@2x.png" "/Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app/Default-568h@2x.png"36"17E0FC5C-2A0C-4AD6-8082-5706E490A9E6-
+
+CCopyPNGFile /Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app/Default.png TestProj/Default.png
+s401061551.715556
+e401061551.768998
+r1
+xCopyPNGFile
+x/Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app/Default.png
+xTestProj/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"CopyPNGFile build/Release-iphoneos/TestProj.app/Default.png TestProj/Default.pngb647b7afb6e7b741^6ff5c4afb6e7b741^---0#0#0#-19%DVTDocumentLocation2@67"file://localhost/Users/vbans1/Desktop/UnitTest/TestProj/Default.png0000000000000000^586"CopyPNGFile build/Release-iphoneos/TestProj.app/Default.png TestProj/Default.png    cd /Users/vbans1/Desktop/UnitTest    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" /Users/vbans1/Desktop/UnitTest/TestProj/Default.png /Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app/Default.png36"0E3D51D3-BB36-4526-BDB3-CCC7C39A7F33-
+
+CCopyPNGFile /Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app/Default@2x.png TestProj/Default@2x.png
+s401061551.715551
+e401061551.827074
+r1
+xCopyPNGFile
+x/Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app/Default@2x.png
+xTestProj/Default@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"CopyPNGFile build/Release-iphoneos/TestProj.app/Default@2x.png TestProj/Default@2x.png1841b7afb6e7b741^adc1d3afb6e7b741^---0#0#0#-19%DVTDocumentLocation2@70"file://localhost/Users/vbans1/Desktop/UnitTest/TestProj/Default@2x.png0000000000000000^606"CopyPNGFile "build/Release-iphoneos/TestProj.app/Default@2x.png" "TestProj/Default@2x.png"    cd /Users/vbans1/Desktop/UnitTest    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/copypng -compress "" "/Users/vbans1/Desktop/UnitTest/TestProj/Default@2x.png" "/Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app/Default@2x.png"36"332C54CC-653A-4F81-8392-E64A7929B1FA-
+
+CCopyStringsFile /Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app/en.lproj/InfoPlist.strings TestProj/en.lproj/InfoPlist.strings
+s401061551.715544
+e401061551.722226
+r1
+xCopyStringsFile
+x/Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app/en.lproj/InfoPlist.strings
+xTestProj/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Copy TestProj/en.lproj/InfoPlist.stringsc843b7afb6e7b741^65e4b8afb6e7b741^---0#0#0#-19%DVTDocumentLocation2@82"file://localhost/Users/vbans1/Desktop/UnitTest/TestProj/en.lproj/InfoPlist.strings0000000000000000^580"CopyStringsFile build/Release-iphoneos/TestProj.app/en.lproj/InfoPlist.strings TestProj/en.lproj/InfoPlist.strings    cd /Users/vbans1/Desktop/UnitTest    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app/en.lproj -- TestProj/en.lproj/InfoPlist.strings36"D6C7D5F3-B1E6-44DA-884F-BB8C7708EBC3-
+
+CCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist build/Release-iphoneos/TestProj.app/ResourceRules.plist
+s401061551.109568
+e401061551.118276
+r1
+xCpResource
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist
+xbuild/Release-iphoneos/TestProj.app/ResourceRules.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Copy build/Release-iphoneos/TestProj.app/ResourceRules.plistc8271cafb6e7b741^d0461eafb6e7b741^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app/ResourceRules.plist000000000080d041^876"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist build/Release-iphoneos/TestProj.app/ResourceRules.plist    cd /Users/vbans1/Desktop/UnitTest    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/ResourceRules.plist /Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app36"7A0133D8-0FF3-48E2-B476-6311A7E3A83D-
+
+CCreateUniversalBinary /Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app/TestProj normal "armv7 armv7s"
+s401061551.638563
+e401061551.649188
+r1
+xCreateUniversalBinary
+x/Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app/TestProj
+xnormal
+xarmv7 armv7s
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Create universal binary /Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app/TestProj588fa3afb6e7b741^ba30a6afb6e7b741^---0#0#0#-19%DVTDocumentLocation2@91"file://localhost/Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app/TestProj000000000080d041^679"CreateUniversalBinary build/Release-iphoneos/TestProj.app/TestProj normal "armv7 armv7s"    cd /Users/vbans1/Desktop/UnitTest    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    lipo -create /Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/TestProj /Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/TestProj -output /Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app/TestProj36"C4641BD3-BF29-48F6-BCBD-100FA7C35302-
+
+CGenerateDSYMFile /Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app.dSYM /Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app/TestProj
+s401061551.655542
+e401061551.707252
+r1
+xGenerateDSYMFile
+x/Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app.dSYM
+x/Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app/TestProj
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Generate /Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app.dSYM54e1a7afb6e7b741^d80fb5afb6e7b741^---0#0#0#-19%DVTDocumentLocation2@87"file://localhost/Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app.dSYM000000000080d041^614"GenerateDSYMFile build/Release-iphoneos/TestProj.app.dSYM build/Release-iphoneos/TestProj.app/TestProj    cd /Users/vbans1/Desktop/UnitTest    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app/TestProj -o /Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app.dSYM36"56AB8EF0-611C-437A-8348-996FB19584E6-
+
+CLd /Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/TestProj normal armv7
+s401061551.541641
+e401061551.594310
+r1
+xLd
+x/Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/TestProj
+xnormal
+xarmv7
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection118"Link /Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/TestProjd5cc8aafb6e7b741^812498afb6e7b741^---0#0#0#--1121"Ld build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/TestProj normal armv7    cd /Users/vbans1/Desktop/UnitTest    setenv IPHONEOS_DEPLOYMENT_TARGET 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -L/Users/vbans1/Desktop/UnitTest/build/Release-iphoneos -F/Users/vbans1/Desktop/UnitTest/build/Release-iphoneos -filelist /Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/TestProj.LinkFileList -dead_strip -fobjc-arc -fobjc-link-runtime -miphoneos-version-min=6.1 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7/TestProj36"F1CB0368-CB3D-4673-A852-B91D2B0185CD-
+
+CLd /Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/TestProj normal armv7s
+s401061551.608796
+e401061551.632011
+r1
+xLd
+x/Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/TestProj
+xnormal
+xarmv7s
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Link /Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/TestProj4aeb9bafb6e7b741^8acba1afb6e7b741^---0#0#0#--1126"Ld build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/TestProj normal armv7s    cd /Users/vbans1/Desktop/UnitTest    setenv IPHONEOS_DEPLOYMENT_TARGET 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7s -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -L/Users/vbans1/Desktop/UnitTest/build/Release-iphoneos -F/Users/vbans1/Desktop/UnitTest/build/Release-iphoneos -filelist /Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/TestProj.LinkFileList -dead_strip -fobjc-arc -fobjc-link-runtime -miphoneos-version-min=6.1 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/Objects-normal/armv7s/TestProj36"812FFADA-67BE-4642-BD87-58B0B3E2A745-
+
+CProcessInfoPlistFile /Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app/Info.plist TestProj/TestProj-Info.plist
+s401061551.109555
+e401061551.118966
+r1
+xProcessInfoPlistFile
+x/Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app/Info.plist
+xTestProj/TestProj-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Process TestProj/TestProj-Info.plist67261cafb6e7b741^4b741eafb6e7b741^---0#0#0#-19%DVTDocumentLocation2@75"file://localhost/Users/vbans1/Desktop/UnitTest/TestProj/TestProj-Info.plist0000000000000000^744"ProcessInfoPlistFile build/Release-iphoneos/TestProj.app/Info.plist TestProj/TestProj-Info.plist    cd /Users/vbans1/Desktop/UnitTest    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility TestProj/TestProj-Info.plist -genpkginfo /Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app/ResourceRules.plist -o /Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app/Info.plist36"716C9FC2-F7F0-489C-B9C7-3A10441FCE44-
+
+CProcessPCH /var/folders/yk/lh113x4x5z5fnws_3m5ln6b9t_f044/C/com.apple.Xcode.1957101700/SharedPrecompiledHeaders/TestProj-Prefix-alsaxerykdzlaacvdeuhwhheepjk/TestProj-Prefix.pch.pth TestProj/TestProj-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s401061551.127229
+e401061551.406113
+r1
+xProcessPCH
+x/var/folders/yk/lh113x4x5z5fnws_3m5ln6b9t_f044/C/com.apple.Xcode.1957101700/SharedPrecompiledHeaders/TestProj-Prefix-alsaxerykdzlaacvdeuhwhheepjk/TestProj-Prefix.pch.pth
+xTestProj/TestProj-Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile TestProj/TestProj-Prefix.pch5fb320afb6e7b741^496368afb6e7b741^---0#0#0#-19%DVTDocumentLocation2@75"file://localhost/Users/vbans1/Desktop/UnitTest/TestProj/TestProj-Prefix.pch0000000000000000^3360"ProcessPCH /var/folders/yk/lh113x4x5z5fnws_3m5ln6b9t_f044/C/com.apple.Xcode.1957101700/SharedPrecompiledHeaders/TestProj-Prefix-alsaxerykdzlaacvdeuhwhheepjk/TestProj-Prefix.pch.pth TestProj/TestProj-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/vbans1/Desktop/UnitTest    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj-generated-files.hmap -I/Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj-own-target-headers.hmap -I/Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj-all-target-headers.hmap -iquote /Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj-project-headers.hmap -I/Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/DerivedSources/armv7 -I/Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/DerivedSources -F/Users/vbans1/Desktop/UnitTest/build/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1 --serialize-diagnostics /var/folders/yk/lh113x4x5z5fnws_3m5ln6b9t_f044/C/com.apple.Xcode.1957101700/SharedPrecompiledHeaders/TestProj-Prefix-alsaxerykdzlaacvdeuhwhheepjk/TestProj-Prefix.pch.dia -c /Users/vbans1/Desktop/UnitTest/TestProj/TestProj-Prefix.pch -o /var/folders/yk/lh113x4x5z5fnws_3m5ln6b9t_f044/C/com.apple.Xcode.1957101700/SharedPrecompiledHeaders/TestProj-Prefix-alsaxerykdzlaacvdeuhwhheepjk/TestProj-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/yk/lh113x4x5z5fnws_3m5ln6b9t_f044/C/com.apple.Xcode.1957101700/SharedPrecompiledHeaders/TestProj-Prefix-alsaxerykdzlaacvdeuhwhheepjk/TestProj-Prefix.pch.d36"D1A3033C-605F-4013-93F3-716F663BA70E-
+
+CProcessPCH /var/folders/yk/lh113x4x5z5fnws_3m5ln6b9t_f044/C/com.apple.Xcode.1957101700/SharedPrecompiledHeaders/TestProj-Prefix-aptjasubttscrickkkuprzjulnhj/TestProj-Prefix.pch.pth TestProj/TestProj-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s401061551.127233
+e401061551.413580
+r1
+xProcessPCH
+x/var/folders/yk/lh113x4x5z5fnws_3m5ln6b9t_f044/C/com.apple.Xcode.1957101700/SharedPrecompiledHeaders/TestProj-Prefix-aptjasubttscrickkkuprzjulnhj/TestProj-Prefix.pch.pth
+xTestProj/TestProj-Prefix.pch
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile TestProj/TestProj-Prefix.pch3eb320afb6e7b741^105b6aafb6e7b741^---0#0#0#-19%DVTDocumentLocation2@75"file://localhost/Users/vbans1/Desktop/UnitTest/TestProj/TestProj-Prefix.pch0000000000000000^3363"ProcessPCH /var/folders/yk/lh113x4x5z5fnws_3m5ln6b9t_f044/C/com.apple.Xcode.1957101700/SharedPrecompiledHeaders/TestProj-Prefix-aptjasubttscrickkkuprzjulnhj/TestProj-Prefix.pch.pth TestProj/TestProj-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/vbans1/Desktop/UnitTest    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7s -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj-generated-files.hmap -I/Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj-own-target-headers.hmap -I/Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj-all-target-headers.hmap -iquote /Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj-project-headers.hmap -I/Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/DerivedSources/armv7s -I/Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/DerivedSources -F/Users/vbans1/Desktop/UnitTest/build/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1 --serialize-diagnostics /var/folders/yk/lh113x4x5z5fnws_3m5ln6b9t_f044/C/com.apple.Xcode.1957101700/SharedPrecompiledHeaders/TestProj-Prefix-aptjasubttscrickkkuprzjulnhj/TestProj-Prefix.pch.dia -c /Users/vbans1/Desktop/UnitTest/TestProj/TestProj-Prefix.pch -o /var/folders/yk/lh113x4x5z5fnws_3m5ln6b9t_f044/C/com.apple.Xcode.1957101700/SharedPrecompiledHeaders/TestProj-Prefix-aptjasubttscrickkkuprzjulnhj/TestProj-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/yk/lh113x4x5z5fnws_3m5ln6b9t_f044/C/com.apple.Xcode.1957101700/SharedPrecompiledHeaders/TestProj-Prefix-aptjasubttscrickkkuprzjulnhj/TestProj-Prefix.pch.d36"E0E91585-FEDD-4CFF-91D3-3020B0C227DD-
+
+CProcessProductPackaging "/Users/vbans1/Library/MobileDevice/Provisioning Profiles/4350B450-94A0-4855-9B61-F888EF3EABF2.mobileprovision" /Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app/embedded.mobileprovision
+s401061552.938160
+e401061552.943832
+r1
+xProcessProductPackaging
+x/Users/vbans1/Library/MobileDevice/Provisioning Profiles/4350B450-94A0-4855-9B61-F888EF3EABF2.mobileprovision
+x/Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app/embedded.mobileprovision
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection196"ProcessProductPackaging "/Users/vbans1/Library/MobileDevice/Provisioning Profiles/4350B450-94A0-4855-9B61-F888EF3EABF2.mobileprovision" build/Release-iphoneos/TestProj.app/embedded.mobileprovision1840f0b0b6e7b741^dc9df1b0b6e7b741^---0#0#0#-19%DVTDocumentLocation2@107"file://localhost/Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app/embedded.mobileprovision0000000000000000^700"ProcessProductPackaging "/Users/vbans1/Library/MobileDevice/Provisioning Profiles/4350B450-94A0-4855-9B61-F888EF3EABF2.mobileprovision" build/Release-iphoneos/TestProj.app/embedded.mobileprovision    cd /Users/vbans1/Desktop/UnitTest    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-productPackagingUtility "/Users/vbans1/Library/MobileDevice/Provisioning Profiles/4350B450-94A0-4855-9B61-F888EF3EABF2.mobileprovision" -o /Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app/embedded.mobileprovision36"BFE686A0-D61C-450F-8C8E-737E04E5F5F4-
+
+CProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist /Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj.xcent
+s401061552.966549
+e401061552.974247
+r1
+xProcessProductPackaging
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist
+x/Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj.xcent
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection212"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist build/TestProj.build/Release-iphoneos/TestProj.build/TestProj.xcent1288f7b0b6e7b741^7368f9b0b6e7b741^---0#0#0#-19%DVTDocumentLocation2@114"file://localhost/Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj.xcent000000000080d041^758"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist build/TestProj.build/Release-iphoneos/TestProj.build/TestProj.xcent    cd /Users/vbans1/Desktop/UnitTest    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-productPackagingUtility /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS6.1.sdk/Entitlements.plist -entitlements -format xml -o /Users/vbans1/Desktop/UnitTest/build/TestProj.build/Release-iphoneos/TestProj.build/TestProj.xcent36"D6A2BE3B-2289-401A-A77E-2AB649AB02B6-
+
+CTouch /Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app
+s401061552.951798
+e401061552.958568
+r1
+xTouch
+x/Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Touch /Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app9dbdf3b0b6e7b741^c365f5b0b6e7b741^---0#0#0#--391"Touch build/Release-iphoneos/TestProj.app    cd /Users/vbans1/Desktop/UnitTest    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /usr/bin/touch -c /Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app36"6C5E1101-F98A-4FE8-9FA4-B5D45047E171-
+
+CValidate /Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app
+s401061553.382968
+e401061554.462742
+r1
+xValidate
+x/Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app
+owarning: iPhone/iPod Touch: Info.plist: Unable to verify icon dimensions, no icon found.  You must define CFBundleIcons, CFBundleIconFiles, CFBundleIconFile, or provide a default Icon.png that is 57x57 (-19013)
+oUnable to validate your application. - (null)
+o
+owarning: iPad: Info.plist: Unable to verify icon dimensions, no icon found.  You must define CFBundleIcons, CFBundleIconFiles, CFBundleIconFile, or provide a default Icon-72.png that is 72x72 (-19013)
+oUnable to validate your application. - (null)
+o
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection44"Validate build/Release-iphoneos/TestProj.app371c62b1b6e7b741^2d7776b2b6e7b741^-500"warning: iPhone/iPod Touch: Info.plist: Unable to verify icon dimensions, no icon found.  You must define CFBundleIcons, CFBundleIconFiles, CFBundleIconFile, or provide a default Icon.png that is 57x57 (-19013)Unable to validate your application. - (null)warning: iPad: Info.plist: Unable to verify icon dimensions, no icon found.  You must define CFBundleIcons, CFBundleIconFiles, CFBundleIconFile, or provide a default Icon-72.png that is 72x72 (-19013)Unable to validate your application. - (null)2(21%IDEActivityLogMessage2@202" iPhone/iPod Touch: Info.plist: Unable to verify icon dimensions, no icon found.  You must define CFBundleIcons, CFBundleIconFiles, CFBundleIconFile, or provide a default Icon.png that is 57x57 (-19013)192"IPhone/iPod Touch: Info.plist: Unable to verify icon dimensions, no icon found.  You must define CFBundleIcons, CFBundleIconFiles, CFBundleIconFile, or provide a default Icon.png that is 57x57401061554#18446744073709551615#0#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#16"Validate Warning--2@192" iPad: Info.plist: Unable to verify icon dimensions, no icon found.  You must define CFBundleIcons, CFBundleIconFiles, CFBundleIconFile, or provide a default Icon-72.png that is 72x72 (-19013)182"IPad: Info.plist: Unable to verify icon dimensions, no icon found.  You must define CFBundleIcons, CFBundleIconFiles, CFBundleIconFile, or provide a default Icon-72.png that is 72x72401061554#18446744073709551615#0#-1#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#16"Validate Warning--0#0#0#-19%DVTDocumentLocation4@83"file://localhost/Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app/0000000000000000^535"Validate build/Release-iphoneos/TestProj.app    cd /Users/vbans1/Desktop/UnitTest    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    setenv PRODUCT_TYPE com.apple.product-type.application    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/Validation /Users/vbans1/Desktop/UnitTest/build/Release-iphoneos/TestProj.app36"99019A8D-1440-4479-B046-825634382595-
+
