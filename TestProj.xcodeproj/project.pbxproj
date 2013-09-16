@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		A414DBFE17E7B9F10072C4F8 /* CalculatorTest.m in Sources */ = {isa = PBXBuildFile; fileRef = A4F53BA717E7766C00815246 /* CalculatorTest.m */; };
+		A414DC0117E7BE9C0072C4F8 /* CalculatorTest.m in Sources */ = {isa = PBXBuildFile; fileRef = A4F53BA717E7766C00815246 /* CalculatorTest.m */; };
 		A4350CB517E11E9600285D36 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A4350CB417E11E9600285D36 /* UIKit.framework */; };
 		A4350CB717E11E9600285D36 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A4350CB617E11E9600285D36 /* Foundation.framework */; };
 		A4350CB917E11E9600285D36 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A4350CB817E11E9600285D36 /* CoreGraphics.framework */; };
@@ -29,13 +29,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		A414DBFF17E7BBBC0072C4F8 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = A4350CA917E11E9500285D36 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = A4F53B8E17E76E2600815246;
-			remoteInfo = AppLogicTests;
-		};
 		A4F53BA117E76F2F00815246 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = A4350CA917E11E9500285D36 /* Project object */;
@@ -200,7 +193,6 @@
 			buildRules = (
 			);
 			dependencies = (
-				A414DC0017E7BBBC0072C4F8 /* PBXTargetDependency */,
 			);
 			name = TestProj;
 			productName = TestProj;
@@ -309,7 +301,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A414DBFE17E7B9F10072C4F8 /* CalculatorTest.m in Sources */,
+				A414DC0117E7BE9C0072C4F8 /* CalculatorTest.m in Sources */,
 				A4F53BAA17E7A57400815246 /* AppLogicTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -317,11 +309,6 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		A414DC0017E7BBBC0072C4F8 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = A4F53B8E17E76E2600815246 /* AppLogicTests */;
-			targetProxy = A414DBFF17E7BBBC0072C4F8 /* PBXContainerItemProxy */;
-		};
 		A4F53BA217E76F2F00815246 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = A4350CB017E11E9600285D36 /* TestProj */;
