@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		A414DC0617E7C2FE0072C4F8 /* AppLogicTests.m in Sources */ = {isa = PBXBuildFile; fileRef = A4F53B9B17E76E2600815246 /* AppLogicTests.m */; };
+		A414DC0717E7C7C30072C4F8 /* CalculatorTest.m in Sources */ = {isa = PBXBuildFile; fileRef = A4F53BA717E7766C00815246 /* CalculatorTest.m */; };
 		A4350CB517E11E9600285D36 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A4350CB417E11E9600285D36 /* UIKit.framework */; };
 		A4350CB717E11E9600285D36 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A4350CB617E11E9600285D36 /* Foundation.framework */; };
 		A4350CB917E11E9600285D36 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A4350CB817E11E9600285D36 /* CoreGraphics.framework */; };
@@ -93,7 +94,6 @@
 		A4350CA817E11E9500285D36 = {
 			isa = PBXGroup;
 			children = (
-				A4F53BA917E776C600815246 /* BusinessLogic */,
 				A4350CBA17E11E9600285D36 /* TestProj */,
 				A4F53B9417E76E2600815246 /* AppLogicTests */,
 				A4350CB317E11E9600285D36 /* Frameworks */,
@@ -152,6 +152,8 @@
 		A4F53B9417E76E2600815246 /* AppLogicTests */ = {
 			isa = PBXGroup;
 			children = (
+				A4F53BA617E7766C00815246 /* CalculatorTest.h */,
+				A4F53BA717E7766C00815246 /* CalculatorTest.m */,
 				A4F53B9A17E76E2600815246 /* AppLogicTests.h */,
 				A4F53B9B17E76E2600815246 /* AppLogicTests.m */,
 				A4F53B9517E76E2600815246 /* Supporting Files */,
@@ -167,15 +169,6 @@
 				A4F53B9D17E76E2600815246 /* AppLogicTests-Prefix.pch */,
 			);
 			name = "Supporting Files";
-			sourceTree = "<group>";
-		};
-		A4F53BA917E776C600815246 /* BusinessLogic */ = {
-			isa = PBXGroup;
-			children = (
-				A4F53BA617E7766C00815246 /* CalculatorTest.h */,
-				A4F53BA717E7766C00815246 /* CalculatorTest.m */,
-			);
-			path = BusinessLogic;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -300,6 +293,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A414DC0717E7C7C30072C4F8 /* CalculatorTest.m in Sources */,
 				A414DC0617E7C2FE0072C4F8 /* AppLogicTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
