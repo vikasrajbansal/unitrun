@@ -1,0 +1,361 @@
+TTestProj
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/TestProj.app/Info.plist TestProj/TestProj-Info.plist
+cProcessPCH /var/folders/yk/lh113x4x5z5fnws_3m5ln6b9t_f044/C/com.apple.Xcode.1957101700/SharedPrecompiledHeaders/TestProj-Prefix-dqybazwasgitwmgkcqhljykieyuu/TestProj-Prefix.pch.pth TestProj/TestProj-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestProj.build/Release-iphonesimulator/TestProj.build/Objects-normal/i386/main.o /Users/vbans1/Desktop/TestProj/TestProj/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestProj.build/Release-iphonesimulator/TestProj.build/Objects-normal/i386/AppDelegate.o /Users/vbans1/Desktop/TestProj/TestProj/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestProj.build/Release-iphonesimulator/TestProj.build/Objects-normal/i386/ViewController.o /Users/vbans1/Desktop/TestProj/TestProj/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/TestProj.build/Release-iphonesimulator/TestProj.build/Objects-normal/i386/CalculatorTest.o /Users/vbans1/Desktop/TestProj/BusinessLogic/../CalculatorTest.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/TestProj.app/TestProj normal i386
+cGenerateDSYMFile /Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/TestProj.app.dSYM /Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/TestProj.app/TestProj
+cCpResource TestProj/Default.png build/Release-iphonesimulator/TestProj.app/Default.png
+cCopyStringsFile /Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/TestProj.app/en.lproj/InfoPlist.strings TestProj/en.lproj/InfoPlist.strings
+cCpResource TestProj/Default@2x.png build/Release-iphonesimulator/TestProj.app/Default@2x.png
+cCpResource TestProj/Default-568h@2x.png build/Release-iphonesimulator/TestProj.app/Default-568h@2x.png
+cCompileStoryboard /Users/vbans1/Desktop/TestProj/TestProj/en.lproj/MainStoryboard_iPhone.storyboard
+cCompileStoryboard /Users/vbans1/Desktop/TestProj/TestProj/en.lproj/MainStoryboard_iPad.storyboard
+cTouch /Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/TestProj.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk
+c0000000050EDEAFB0000000000000110
+t1357769467
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000051649DE30000000000228FE0
+t1365548515
+s2265056
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000051649DF100000000003DDFA0
+t1365548529
+s4054944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c0000000051649DF100000000000015F7
+t1365548529
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c0000000051649E260000000000000E8D
+t1365548582
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000051649E290000000000AB6230
+t1365548585
+s11231792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/usr/include/Availability.h
+c0000000051649ED10000000000001B73
+t1365548753
+s7027
+
+N/Users/vbans1/Desktop/TestProj/BusinessLogic/../CalculatorTest.h
+c00000000523741250000000000000148
+t1379352869
+s328
+
+N/Users/vbans1/Desktop/TestProj/BusinessLogic/../CalculatorTest.m
+c00000000523744330000000000000239
+t1379353651
+s569
+
+N/Users/vbans1/Desktop/TestProj/TestProj/AppDelegate.h
+c000000005230E7160000000000000126
+t1378936598
+s294
+
+N/Users/vbans1/Desktop/TestProj/TestProj/AppDelegate.m
+c000000005230E71600000000000007E8
+t1378936598
+s2024
+
+N/Users/vbans1/Desktop/TestProj/TestProj/Default-568h@2x.png
+c00000000515C9E6200000000000048A2
+t1365024354
+s18594
+
+N/Users/vbans1/Desktop/TestProj/TestProj/Default.png
+c00000000515C9E62000000000000198C
+t1365024354
+s6540
+
+N/Users/vbans1/Desktop/TestProj/TestProj/Default@2x.png
+c00000000515C9E620000000000003EEB
+t1365024354
+s16107
+
+N/Users/vbans1/Desktop/TestProj/TestProj/TestProj-Prefix.pch
+c000000005230E716000000000000013F
+t1378936598
+s319
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/vbans1/Desktop/TestProj/TestProj/ViewController.h
+c000000005230E71600000000000000E8
+t1378936598
+s232
+
+N/Users/vbans1/Desktop/TestProj/TestProj/ViewController.m
+c000000005231E2ED000000000000023A
+t1379001069
+s570
+
+N/Users/vbans1/Desktop/TestProj/TestProj/en.lproj/InfoPlist.strings
+c000000005230E716000000000000002D
+t1378936598
+s45
+
+N/Users/vbans1/Desktop/TestProj/TestProj/en.lproj/MainStoryboard_iPad.storyboard
+c000000005230E716000000000000061D
+t1378936598
+s1565
+
+N/Users/vbans1/Desktop/TestProj/TestProj/en.lproj/MainStoryboard_iPhone.storyboard
+c000000005230E7E30000000000001401
+t1378936803
+s5121
+
+N/Users/vbans1/Desktop/TestProj/TestProj/main.m
+c000000005230E7160000000000000161
+t1378936598
+s353
+
+N/Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/TestProj.app
+t1379356271
+s306
+
+N/Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/TestProj.app.dSYM
+t1379356270
+s102
+
+N/Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/TestProj.app/Default-568h@2x.png
+t1379356270
+s18594
+
+N/Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/TestProj.app/Default.png
+t1379356270
+s6540
+
+N/Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/TestProj.app/Default@2x.png
+t1379356270
+s16107
+
+N/Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/TestProj.app/Info.plist
+t1379356270
+s995
+
+N/Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/TestProj.app/PkgInfo
+t1379356270
+s8
+
+N/Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/TestProj.app/TestProj
+t1379356270
+s17948
+
+N/Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/TestProj.app/en.lproj/InfoPlist.strings
+t1379356270
+s42
+
+N/Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/TestProj.app/en.lproj/MainStoryboard_iPad.storyboardc
+t1379356271
+s170
+
+N/Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/TestProj.app/en.lproj/MainStoryboard_iPhone.storyboardc
+t1379356271
+s238
+
+N/Users/vbans1/Desktop/TestProj/build/TestProj.build/Release-iphonesimulator/TestProj.build/Objects-normal/i386/AppDelegate.o
+t1379356270
+s85396
+
+N/Users/vbans1/Desktop/TestProj/build/TestProj.build/Release-iphonesimulator/TestProj.build/Objects-normal/i386/CalculatorTest.o
+t1379356270
+s6348
+
+N/Users/vbans1/Desktop/TestProj/build/TestProj.build/Release-iphonesimulator/TestProj.build/Objects-normal/i386/TestProj.LinkFileList
+c0000000052374E6E00000000000001F3
+t1379356270
+s499
+
+N/Users/vbans1/Desktop/TestProj/build/TestProj.build/Release-iphonesimulator/TestProj.build/Objects-normal/i386/ViewController.o
+t1379356270
+s67944
+
+N/Users/vbans1/Desktop/TestProj/build/TestProj.build/Release-iphonesimulator/TestProj.build/Objects-normal/i386/main.o
+t1379356270
+s3176
+
+N/var/folders/yk/lh113x4x5z5fnws_3m5ln6b9t_f044/C/com.apple.Xcode.1957101700/SharedPrecompiledHeaders/TestProj-Prefix-dqybazwasgitwmgkcqhljykieyuu/TestProj-Prefix.pch.pth
+t1379356270
+s4676644
+
+NTestProj/TestProj-Info.plist
+c000000005230E716000000000000063E
+t1378936598
+s1598
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesf99d7a9d98e7b741^8ec8939d98e7b741^---0#1#0#--18"Check dependencies36"D7416CA4-0F4A-425B-8B1F-E21549D37A1B-
+
+CCompileC build/TestProj.build/Release-iphonesimulator/TestProj.build/Objects-normal/i386/AppDelegate.o /Users/vbans1/Desktop/TestProj/TestProj/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s401049070.419633
+e401049070.502138
+r1
+xCompileC
+xbuild/TestProj.build/Release-iphonesimulator/TestProj.build/Objects-normal/i386/AppDelegate.o
+x/Users/vbans1/Desktop/TestProj/TestProj/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection61"Compile /Users/vbans1/Desktop/TestProj/TestProj/AppDelegate.mf29a6bee85e7b741^db8b80ee85e7b741^---0#0#0#-19%DVTDocumentLocation2@69"file://localhost/Users/vbans1/Desktop/TestProj/TestProj/AppDelegate.m0000000000000000^3456"CompileC build/TestProj.build/Release-iphonesimulator/TestProj.build/Objects-normal/i386/AppDelegate.o TestProj/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/vbans1/Desktop/TestProj    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/vbans1/Desktop/TestProj/build/TestProj.build/Release-iphonesimulator/TestProj.build/TestProj-generated-files.hmap -I/Users/vbans1/Desktop/TestProj/build/TestProj.build/Release-iphonesimulator/TestProj.build/TestProj-own-target-headers.hmap -I/Users/vbans1/Desktop/TestProj/build/TestProj.build/Release-iphonesimulator/TestProj.build/TestProj-all-target-headers.hmap -iquote /Users/vbans1/Desktop/TestProj/build/TestProj.build/Release-iphonesimulator/TestProj.build/TestProj-project-headers.hmap -I/Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/vbans1/Desktop/TestProj/build/TestProj.build/Release-iphonesimulator/TestProj.build/DerivedSources/i386 -I/Users/vbans1/Desktop/TestProj/build/TestProj.build/Release-iphonesimulator/TestProj.build/DerivedSources -F/Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/yk/lh113x4x5z5fnws_3m5ln6b9t_f044/C/com.apple.Xcode.1957101700/SharedPrecompiledHeaders/TestProj-Prefix-dqybazwasgitwmgkcqhljykieyuu/TestProj-Prefix.pch -MMD -MT dependencies -MF /Users/vbans1/Desktop/TestProj/build/TestProj.build/Release-iphonesimulator/TestProj.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/vbans1/Desktop/TestProj/build/TestProj.build/Release-iphonesimulator/TestProj.build/Objects-normal/i386/AppDelegate.dia -c /Users/vbans1/Desktop/TestProj/TestProj/AppDelegate.m -o /Users/vbans1/Desktop/TestProj/build/TestProj.build/Release-iphonesimulator/TestProj.build/Objects-normal/i386/AppDelegate.o36"EF7F0AA6-95C4-4E78-B54C-B2702182F2F5-
+
+CCompileC build/TestProj.build/Release-iphonesimulator/TestProj.build/Objects-normal/i386/CalculatorTest.o /Users/vbans1/Desktop/TestProj/BusinessLogic/../CalculatorTest.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s401049070.419747
+e401049070.465674
+r1
+xCompileC
+xbuild/TestProj.build/Release-iphonesimulator/TestProj.build/Objects-normal/i386/CalculatorTest.o
+x/Users/vbans1/Desktop/TestProj/BusinessLogic/../CalculatorTest.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/vbans1/Desktop/TestProj/BusinessLogic/../CalculatorTest.m51a06bee85e7b741^8c2e77ee85e7b741^---0#0#0#-19%DVTDocumentLocation2@80"file://localhost/Users/vbans1/Desktop/TestProj/BusinessLogic/../CalculatorTest.m0000000000000000^3490"CompileC build/TestProj.build/Release-iphonesimulator/TestProj.build/Objects-normal/i386/CalculatorTest.o BusinessLogic/../CalculatorTest.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/vbans1/Desktop/TestProj    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/vbans1/Desktop/TestProj/build/TestProj.build/Release-iphonesimulator/TestProj.build/TestProj-generated-files.hmap -I/Users/vbans1/Desktop/TestProj/build/TestProj.build/Release-iphonesimulator/TestProj.build/TestProj-own-target-headers.hmap -I/Users/vbans1/Desktop/TestProj/build/TestProj.build/Release-iphonesimulator/TestProj.build/TestProj-all-target-headers.hmap -iquote /Users/vbans1/Desktop/TestProj/build/TestProj.build/Release-iphonesimulator/TestProj.build/TestProj-project-headers.hmap -I/Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/vbans1/Desktop/TestProj/build/TestProj.build/Release-iphonesimulator/TestProj.build/DerivedSources/i386 -I/Users/vbans1/Desktop/TestProj/build/TestProj.build/Release-iphonesimulator/TestProj.build/DerivedSources -F/Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/yk/lh113x4x5z5fnws_3m5ln6b9t_f044/C/com.apple.Xcode.1957101700/SharedPrecompiledHeaders/TestProj-Prefix-dqybazwasgitwmgkcqhljykieyuu/TestProj-Prefix.pch -MMD -MT dependencies -MF /Users/vbans1/Desktop/TestProj/build/TestProj.build/Release-iphonesimulator/TestProj.build/Objects-normal/i386/CalculatorTest.d --serialize-diagnostics /Users/vbans1/Desktop/TestProj/build/TestProj.build/Release-iphonesimulator/TestProj.build/Objects-normal/i386/CalculatorTest.dia -c /Users/vbans1/Desktop/TestProj/BusinessLogic/../CalculatorTest.m -o /Users/vbans1/Desktop/TestProj/build/TestProj.build/Release-iphonesimulator/TestProj.build/Objects-normal/i386/CalculatorTest.o36"F86BBFC4-3B55-4F93-BEBB-4CE6A0FCDAB8-
+
+CCompileC build/TestProj.build/Release-iphonesimulator/TestProj.build/Objects-normal/i386/ViewController.o /Users/vbans1/Desktop/TestProj/TestProj/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s401049070.419791
+e401049070.498437
+r1
+xCompileC
+xbuild/TestProj.build/Release-iphonesimulator/TestProj.build/Objects-normal/i386/ViewController.o
+x/Users/vbans1/Desktop/TestProj/TestProj/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection64"Compile /Users/vbans1/Desktop/TestProj/TestProj/ViewController.mb0a96bee85e7b741^d9987fee85e7b741^---0#0#0#-19%DVTDocumentLocation2@72"file://localhost/Users/vbans1/Desktop/TestProj/TestProj/ViewController.m0000000000000000^3474"CompileC build/TestProj.build/Release-iphonesimulator/TestProj.build/Objects-normal/i386/ViewController.o TestProj/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/vbans1/Desktop/TestProj    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/vbans1/Desktop/TestProj/build/TestProj.build/Release-iphonesimulator/TestProj.build/TestProj-generated-files.hmap -I/Users/vbans1/Desktop/TestProj/build/TestProj.build/Release-iphonesimulator/TestProj.build/TestProj-own-target-headers.hmap -I/Users/vbans1/Desktop/TestProj/build/TestProj.build/Release-iphonesimulator/TestProj.build/TestProj-all-target-headers.hmap -iquote /Users/vbans1/Desktop/TestProj/build/TestProj.build/Release-iphonesimulator/TestProj.build/TestProj-project-headers.hmap -I/Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/vbans1/Desktop/TestProj/build/TestProj.build/Release-iphonesimulator/TestProj.build/DerivedSources/i386 -I/Users/vbans1/Desktop/TestProj/build/TestProj.build/Release-iphonesimulator/TestProj.build/DerivedSources -F/Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/yk/lh113x4x5z5fnws_3m5ln6b9t_f044/C/com.apple.Xcode.1957101700/SharedPrecompiledHeaders/TestProj-Prefix-dqybazwasgitwmgkcqhljykieyuu/TestProj-Prefix.pch -MMD -MT dependencies -MF /Users/vbans1/Desktop/TestProj/build/TestProj.build/Release-iphonesimulator/TestProj.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/vbans1/Desktop/TestProj/build/TestProj.build/Release-iphonesimulator/TestProj.build/Objects-normal/i386/ViewController.dia -c /Users/vbans1/Desktop/TestProj/TestProj/ViewController.m -o /Users/vbans1/Desktop/TestProj/build/TestProj.build/Release-iphonesimulator/TestProj.build/Objects-normal/i386/ViewController.o36"894CBD79-BACC-47A9-8AAE-24800C3AE113-
+
+CCompileC build/TestProj.build/Release-iphonesimulator/TestProj.build/Objects-normal/i386/main.o /Users/vbans1/Desktop/TestProj/TestProj/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s401049070.419781
+e401049070.465536
+r1
+xCompileC
+xbuild/TestProj.build/Release-iphonesimulator/TestProj.build/Objects-normal/i386/main.o
+x/Users/vbans1/Desktop/TestProj/TestProj/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Compile /Users/vbans1/Desktop/TestProj/TestProj/main.m5e9d6bee85e7b741^6a3277ee85e7b741^---0#0#0#-19%DVTDocumentLocation2@62"file://localhost/Users/vbans1/Desktop/TestProj/TestProj/main.m0000000000000000^3414"CompileC build/TestProj.build/Release-iphonesimulator/TestProj.build/Objects-normal/i386/main.o TestProj/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/vbans1/Desktop/TestProj    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/vbans1/Desktop/TestProj/build/TestProj.build/Release-iphonesimulator/TestProj.build/TestProj-generated-files.hmap -I/Users/vbans1/Desktop/TestProj/build/TestProj.build/Release-iphonesimulator/TestProj.build/TestProj-own-target-headers.hmap -I/Users/vbans1/Desktop/TestProj/build/TestProj.build/Release-iphonesimulator/TestProj.build/TestProj-all-target-headers.hmap -iquote /Users/vbans1/Desktop/TestProj/build/TestProj.build/Release-iphonesimulator/TestProj.build/TestProj-project-headers.hmap -I/Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/vbans1/Desktop/TestProj/build/TestProj.build/Release-iphonesimulator/TestProj.build/DerivedSources/i386 -I/Users/vbans1/Desktop/TestProj/build/TestProj.build/Release-iphonesimulator/TestProj.build/DerivedSources -F/Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/yk/lh113x4x5z5fnws_3m5ln6b9t_f044/C/com.apple.Xcode.1957101700/SharedPrecompiledHeaders/TestProj-Prefix-dqybazwasgitwmgkcqhljykieyuu/TestProj-Prefix.pch -MMD -MT dependencies -MF /Users/vbans1/Desktop/TestProj/build/TestProj.build/Release-iphonesimulator/TestProj.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/vbans1/Desktop/TestProj/build/TestProj.build/Release-iphonesimulator/TestProj.build/Objects-normal/i386/main.dia -c /Users/vbans1/Desktop/TestProj/TestProj/main.m -o /Users/vbans1/Desktop/TestProj/build/TestProj.build/Release-iphonesimulator/TestProj.build/Objects-normal/i386/main.o36"95BF6121-139F-4221-933E-B41CCC49E332-
+
+CCompileStoryboard /Users/vbans1/Desktop/TestProj/TestProj/en.lproj/MainStoryboard_iPad.storyboard
+s401049070.582319
+e401049071.557409
+r1
+xCompileStoryboard
+x/Users/vbans1/Desktop/TestProj/TestProj/en.lproj/MainStoryboard_iPad.storyboard
+o2013-09-16 11:31:11.148 Interface Builder Cocoa Touch Tool[24644:f07] CFPreferences: user home directory at file://localhost/Users/vbans1/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"CompileStoryboard TestProj/en.lproj/MainStoryboard_iPad.storyboard6b2895ee85e7b741^c8d38eef85e7b741^-239"2013-09-16 11:31:11.148 Interface Builder Cocoa Touch Tool[24644:f07] CFPreferences: user home directory at file://localhost/Users/vbans1/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/vbans1/Desktop/TestProj/TestProj/en.lproj/MainStoryboard_iPad.storyboard0000000000000000^974"CompileStoryboard TestProj/en.lproj/MainStoryboard_iPad.storyboard    cd /Users/vbans1/Desktop/TestProj    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/TestProj.app/en.lproj/MainStoryboard_iPad.storyboardc /Users/vbans1/Desktop/TestProj/TestProj/en.lproj/MainStoryboard_iPad.storyboard --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk36"75F99DD4-6BAC-4144-9E40-0C4DE918C5D8-
+
+CCompileStoryboard /Users/vbans1/Desktop/TestProj/TestProj/en.lproj/MainStoryboard_iPhone.storyboard
+s401049070.580077
+e401049071.557087
+r1
+xCompileStoryboard
+x/Users/vbans1/Desktop/TestProj/TestProj/en.lproj/MainStoryboard_iPhone.storyboard
+o2013-09-16 11:31:11.153 Interface Builder Cocoa Touch Tool[24645:f07] CFPreferences: user home directory at file://localhost/Users/vbans1/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"CompileStoryboard TestProj/en.lproj/MainStoryboard_iPhone.storyboard2a9194ee85e7b741^88bb8eef85e7b741^-239"2013-09-16 11:31:11.153 Interface Builder Cocoa Touch Tool[24645:f07] CFPreferences: user home directory at file://localhost/Users/vbans1/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/vbans1/Desktop/TestProj/TestProj/en.lproj/MainStoryboard_iPhone.storyboard0000000000000000^980"CompileStoryboard TestProj/en.lproj/MainStoryboard_iPhone.storyboard    cd /Users/vbans1/Desktop/TestProj    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/TestProj.app/en.lproj/MainStoryboard_iPhone.storyboardc /Users/vbans1/Desktop/TestProj/TestProj/en.lproj/MainStoryboard_iPhone.storyboard --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk36"9D1F11C1-B6A6-45E1-842B-8C93407DAF13-
+
+CCopyStringsFile /Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/TestProj.app/en.lproj/InfoPlist.strings TestProj/en.lproj/InfoPlist.strings
+s401049070.575590
+e401049070.582030
+r1
+xCopyStringsFile
+x/Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/TestProj.app/en.lproj/InfoPlist.strings
+xTestProj/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Copy TestProj/en.lproj/InfoPlist.stringsf27793ee85e7b741^3f0095ee85e7b741^---0#0#0#-19%DVTDocumentLocation2@82"file://localhost/Users/vbans1/Desktop/TestProj/TestProj/en.lproj/InfoPlist.strings0000000000000000^601"CopyStringsFile build/Release-iphonesimulator/TestProj.app/en.lproj/InfoPlist.strings TestProj/en.lproj/InfoPlist.strings    cd /Users/vbans1/Desktop/TestProj    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/TestProj.app/en.lproj -- TestProj/en.lproj/InfoPlist.strings36"D1241C86-4D6E-4917-AA8B-2F8F28B5E704-
+
+CCpResource TestProj/Default-568h@2x.png build/Release-iphonesimulator/TestProj.app/Default-568h@2x.png
+s401049070.575829
+e401049070.581146
+r1
+xCpResource
+xTestProj/Default-568h@2x.png
+xbuild/Release-iphonesimulator/TestProj.app/Default-568h@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Copy build/Release-iphonesimulator/TestProj.app/Default-568h@2x.png528193ee85e7b741^c5ca94ee85e7b741^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/TestProj.app/Default-568h@2x.png000000000080d041^748"CpResource "TestProj/Default-568h@2x.png" "build/Release-iphonesimulator/TestProj.app/Default-568h@2x.png"    cd /Users/vbans1/Desktop/TestProj    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks "/Users/vbans1/Desktop/TestProj/TestProj/Default-568h@2x.png" /Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/TestProj.app36"B6FC4A82-905E-459F-B469-3C23ADB18FFE-
+
+CCpResource TestProj/Default.png build/Release-iphonesimulator/TestProj.app/Default.png
+s401049070.575585
+e401049070.582500
+r1
+xCpResource
+xTestProj/Default.png
+xbuild/Release-iphonesimulator/TestProj.app/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Copy build/Release-iphonesimulator/TestProj.app/Default.png028093ee85e7b741^da1e95ee85e7b741^---0#0#0#-19%DVTDocumentLocation2@101"file://localhost/Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/TestProj.app/Default.png000000000080d041^718"CpResource TestProj/Default.png build/Release-iphonesimulator/TestProj.app/Default.png    cd /Users/vbans1/Desktop/TestProj    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Users/vbans1/Desktop/TestProj/TestProj/Default.png /Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/TestProj.app36"5612919F-513C-4454-86DC-577530007F3C-
+
+CCpResource TestProj/Default@2x.png build/Release-iphonesimulator/TestProj.app/Default@2x.png
+s401049070.575579
+e401049070.578907
+r1
+xCpResource
+xTestProj/Default@2x.png
+xbuild/Release-iphonesimulator/TestProj.app/Default@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Copy build/Release-iphonesimulator/TestProj.app/Default@2x.pngcd7493ee85e7b741^fd3294ee85e7b741^---0#0#0#-19%DVTDocumentLocation2@104"file://localhost/Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/TestProj.app/Default@2x.png000000000080d041^733"CpResource "TestProj/Default@2x.png" "build/Release-iphonesimulator/TestProj.app/Default@2x.png"    cd /Users/vbans1/Desktop/TestProj    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks "/Users/vbans1/Desktop/TestProj/TestProj/Default@2x.png" /Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/TestProj.app36"CCE8B539-0090-4684-914B-0ED0ED596BD9-
+
+CGenerateDSYMFile /Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/TestProj.app.dSYM /Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/TestProj.app/TestProj
+s401049070.539738
+e401049070.567571
+r1
+xGenerateDSYMFile
+x/Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/TestProj.app.dSYM
+x/Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/TestProj.app/TestProj
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Generate /Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/TestProj.app.dSYMea3c8aee85e7b741^554c91ee85e7b741^---0#0#0#-19%DVTDocumentLocation2@94"file://localhost/Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/TestProj.app.dSYM000000000080d041^649"GenerateDSYMFile build/Release-iphonesimulator/TestProj.app.dSYM build/Release-iphonesimulator/TestProj.app/TestProj    cd /Users/vbans1/Desktop/TestProj    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/TestProj.app/TestProj -o /Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/TestProj.app.dSYM36"9FA57297-92CD-4962-81B2-806ABD858DD0-
+
+CLd /Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/TestProj.app/TestProj normal i386
+s401049070.508984
+e401049070.532991
+r1
+xLd
+x/Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/TestProj.app/TestProj
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Link /Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/TestProj.app/TestProjb36082ee85e7b741^087288ee85e7b741^---0#0#0#--1158"Ld build/Release-iphonesimulator/TestProj.app/TestProj normal i386    cd /Users/vbans1/Desktop/TestProj    setenv IPHONEOS_DEPLOYMENT_TARGET 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -L/Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator -F/Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator -filelist /Users/vbans1/Desktop/TestProj/build/TestProj.build/Release-iphonesimulator/TestProj.build/Objects-normal/i386/TestProj.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.1 -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/TestProj.app/TestProj36"755EC98F-6A66-4E30-8A87-2CE6F6ECBC29-
+
+CProcessInfoPlistFile /Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/TestProj.app/Info.plist TestProj/TestProj-Info.plist
+s401049070.176482
+e401049070.184275
+r1
+xProcessInfoPlistFile
+x/Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/TestProj.app/Info.plist
+xTestProj/TestProj-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Process TestProj/TestProj-Info.plist4e422dee85e7b741^302c2fee85e7b741^---0#0#0#-19%DVTDocumentLocation2@75"file://localhost/Users/vbans1/Desktop/TestProj/TestProj/TestProj-Info.plist0000000000000000^673"ProcessInfoPlistFile build/Release-iphonesimulator/TestProj.app/Info.plist TestProj/TestProj-Info.plist    cd /Users/vbans1/Desktop/TestProj    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility TestProj/TestProj-Info.plist -genpkginfo /Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/TestProj.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/TestProj.app/Info.plist36"67B11B8E-C136-4EBA-A4FE-BCF25BFFE3E8-
+
+CProcessPCH /var/folders/yk/lh113x4x5z5fnws_3m5ln6b9t_f044/C/com.apple.Xcode.1957101700/SharedPrecompiledHeaders/TestProj-Prefix-dqybazwasgitwmgkcqhljykieyuu/TestProj-Prefix.pch.pth TestProj/TestProj-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s401049070.192825
+e401049070.412690
+r1
+xProcessPCH
+x/var/folders/yk/lh113x4x5z5fnws_3m5ln6b9t_f044/C/com.apple.Xcode.1957101700/SharedPrecompiledHeaders/TestProj-Prefix-dqybazwasgitwmgkcqhljykieyuu/TestProj-Prefix.pch.pth
+xTestProj/TestProj-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Precompile TestProj/TestProj-Prefix.pch9e7d31ee85e7b741^87a569ee85e7b741^---0#0#0#-19%DVTDocumentLocation2@75"file://localhost/Users/vbans1/Desktop/TestProj/TestProj/TestProj-Prefix.pch0000000000000000^3509"ProcessPCH /var/folders/yk/lh113x4x5z5fnws_3m5ln6b9t_f044/C/com.apple.Xcode.1957101700/SharedPrecompiledHeaders/TestProj-Prefix-dqybazwasgitwmgkcqhljykieyuu/TestProj-Prefix.pch.pth TestProj/TestProj-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/vbans1/Desktop/TestProj    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/vbans1/Desktop/TestProj/build/TestProj.build/Release-iphonesimulator/TestProj.build/TestProj-generated-files.hmap -I/Users/vbans1/Desktop/TestProj/build/TestProj.build/Release-iphonesimulator/TestProj.build/TestProj-own-target-headers.hmap -I/Users/vbans1/Desktop/TestProj/build/TestProj.build/Release-iphonesimulator/TestProj.build/TestProj-all-target-headers.hmap -iquote /Users/vbans1/Desktop/TestProj/build/TestProj.build/Release-iphonesimulator/TestProj.build/TestProj-project-headers.hmap -I/Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/vbans1/Desktop/TestProj/build/TestProj.build/Release-iphonesimulator/TestProj.build/DerivedSources/i386 -I/Users/vbans1/Desktop/TestProj/build/TestProj.build/Release-iphonesimulator/TestProj.build/DerivedSources -F/Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator -DNS_BLOCK_ASSERTIONS=1 --serialize-diagnostics /var/folders/yk/lh113x4x5z5fnws_3m5ln6b9t_f044/C/com.apple.Xcode.1957101700/SharedPrecompiledHeaders/TestProj-Prefix-dqybazwasgitwmgkcqhljykieyuu/TestProj-Prefix.pch.dia -c /Users/vbans1/Desktop/TestProj/TestProj/TestProj-Prefix.pch -o /var/folders/yk/lh113x4x5z5fnws_3m5ln6b9t_f044/C/com.apple.Xcode.1957101700/SharedPrecompiledHeaders/TestProj-Prefix-dqybazwasgitwmgkcqhljykieyuu/TestProj-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/yk/lh113x4x5z5fnws_3m5ln6b9t_f044/C/com.apple.Xcode.1957101700/SharedPrecompiledHeaders/TestProj-Prefix-dqybazwasgitwmgkcqhljykieyuu/TestProj-Prefix.pch.d36"DFA0733B-6322-4B1E-9DE5-9C2911604AC4-
+
+CTouch /Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/TestProj.app
+s401049071.565497
+e401049071.571354
+r1
+xTouch
+x/Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/TestProj.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Touch /Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/TestProj.app3dd290ef85e7b741^c84492ef85e7b741^---0#0#0#--412"Touch build/Release-iphonesimulator/TestProj.app    cd /Users/vbans1/Desktop/TestProj    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /usr/bin/touch -c /Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/TestProj.app36"F8671910-8D7F-49CE-BBCF-B9A95A54041A-
+
