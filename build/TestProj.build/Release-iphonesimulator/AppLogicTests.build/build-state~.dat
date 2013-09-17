@@ -1,165 +1,0 @@
-TAppLogicTests
-v5
-r1
-cCheck dependencies
-cProcessInfoPlistFile /Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/AppLogicTests.octest/Info.plist AppLogicTests/AppLogicTests-Info.plist
-cProcessPCH /var/folders/yk/lh113x4x5z5fnws_3m5ln6b9t_f044/C/com.apple.Xcode.1957101700/SharedPrecompiledHeaders/AppLogicTests-Prefix-crwhhxttyrxwllhftmitwjmlsdde/AppLogicTests-Prefix.pch.pth AppLogicTests/AppLogicTests-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cCompileC build/TestProj.build/Release-iphonesimulator/AppLogicTests.build/Objects-normal/i386/AppLogicTests.o /Users/vbans1/Desktop/TestProj/AppLogicTests/AppLogicTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-cLd /Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/AppLogicTests.octest/AppLogicTests normal i386
-
-N/Applications/Xcode.app/Contents/Developer/Library/Frameworks/SenTestingKit.framework/SenTestingKit
-c00000000515C9E6F00000000000310B0
-t1365024367
-s200880
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk
-c0000000050EDEAFB0000000000000110
-t1357769467
-s272
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
-c0000000051649DF100000000003DDFA0
-t1365548529
-s4054944
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
-c0000000051649DF100000000000015F7
-t1365548529
-s5623
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
-c0000000051649E260000000000000E8D
-t1365548582
-s3725
-
-N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
-c0000000051649E290000000000AB6230
-t1365548585
-s11231792
-
-N/Users/vbans1/Desktop/TestProj/AppLogicTests/AppLogicTests-Prefix.pch
-c00000000523736A600000000000000C3
-t1379350182
-s195
-i<UIKit/UIKit.h>
-i<Foundation/Foundation.h>
-
-N/Users/vbans1/Desktop/TestProj/AppLogicTests/AppLogicTests.m
-c00000000523744510000000000000522
-t1379353681
-s1314
-
-N/Users/vbans1/Desktop/TestProj/AppLogicTests/en.lproj/InfoPlist.strings
-c00000000523736A6000000000000002D
-t1379350182
-s45
-
-N/Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/AppLogicTests.octest
-t2
-s0
-
-N/Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/AppLogicTests.octest.dSYM
-t2
-s0
-
-N/Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/AppLogicTests.octest/AppLogicTests
-t2
-s0
-
-N/Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/AppLogicTests.octest/Info.plist
-t2
-s0
-
-N/Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/AppLogicTests.octest/en.lproj/InfoPlist.strings
-t2
-s0
-
-N/Users/vbans1/Desktop/TestProj/build/TestProj.build/Release-iphonesimulator/AppLogicTests.build/Objects-normal/i386/AppLogicTests.LinkFileList
-c0000000052374E6F0000000000000084
-t1379356271
-s132
-
-N/Users/vbans1/Desktop/TestProj/build/TestProj.build/Release-iphonesimulator/AppLogicTests.build/Objects-normal/i386/AppLogicTests.o
-t2
-s0
-
-N/Users/vbans1/Desktop/TestProj/build/TestProj.build/Release-iphonesimulator/AppLogicTests.build/Script-A4F53B8D17E76E2600815246.sh
-c0000000052374E6F0000000000000062
-t1379356271
-s98
-
-N/var/folders/yk/lh113x4x5z5fnws_3m5ln6b9t_f044/C/com.apple.Xcode.1957101700/SharedPrecompiledHeaders/AppLogicTests-Prefix-crwhhxttyrxwllhftmitwjmlsdde/AppLogicTests-Prefix.pch.pth
-t2
-s0
-
-NAppLogicTests/AppLogicTests-Info.plist
-c00000000523736A600000000000002AA
-t1379350182
-s682
-
-CCheck dependencies
-r0
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciescb6799ef85e7b741^90a3a1ef85e7b741^---0#1#0#--18"Check dependencies36"A0B97852-A29E-4146-9D53-8F7942029093-
-
-CCompileC build/TestProj.build/Release-iphonesimulator/AppLogicTests.build/Objects-normal/i386/AppLogicTests.o /Users/vbans1/Desktop/TestProj/AppLogicTests/AppLogicTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s401049071.916390
-e401049071.987190
-r1
-xCompileC
-xbuild/TestProj.build/Release-iphonesimulator/AppLogicTests.build/Objects-normal/i386/AppLogicTests.o
-x/Users/vbans1/Desktop/TestProj/AppLogicTests/AppLogicTests.m
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/vbans1/Desktop/TestProj/AppLogicTests/AppLogicTests.mafb2eaef85e7b741^d4b7fcef85e7b741^---0#0#0#-19%DVTDocumentLocation2@76"file://localhost/Users/vbans1/Desktop/TestProj/AppLogicTests/AppLogicTests.m0000000000000000^3749"CompileC build/TestProj.build/Release-iphonesimulator/AppLogicTests.build/Objects-normal/i386/AppLogicTests.o AppLogicTests/AppLogicTests.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/vbans1/Desktop/TestProj    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/vbans1/Desktop/TestProj/build/TestProj.build/Release-iphonesimulator/AppLogicTests.build/AppLogicTests-generated-files.hmap -I/Users/vbans1/Desktop/TestProj/build/TestProj.build/Release-iphonesimulator/AppLogicTests.build/AppLogicTests-own-target-headers.hmap -I/Users/vbans1/Desktop/TestProj/build/TestProj.build/Release-iphonesimulator/AppLogicTests.build/AppLogicTests-all-target-headers.hmap -iquote /Users/vbans1/Desktop/TestProj/build/TestProj.build/Release-iphonesimulator/AppLogicTests.build/AppLogicTests-project-headers.hmap -I/Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/vbans1/Desktop/TestProj/build/TestProj.build/Release-iphonesimulator/AppLogicTests.build/DerivedSources/i386 -I/Users/vbans1/Desktop/TestProj/build/TestProj.build/Release-iphonesimulator/AppLogicTests.build/DerivedSources -F/Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/yk/lh113x4x5z5fnws_3m5ln6b9t_f044/C/com.apple.Xcode.1957101700/SharedPrecompiledHeaders/AppLogicTests-Prefix-crwhhxttyrxwllhftmitwjmlsdde/AppLogicTests-Prefix.pch -MMD -MT dependencies -MF /Users/vbans1/Desktop/TestProj/build/TestProj.build/Release-iphonesimulator/AppLogicTests.build/Objects-normal/i386/AppLogicTests.d --serialize-diagnostics /Users/vbans1/Desktop/TestProj/build/TestProj.build/Release-iphonesimulator/AppLogicTests.build/Objects-normal/i386/AppLogicTests.dia -c /Users/vbans1/Desktop/TestProj/AppLogicTests/AppLogicTests.m -o /Users/vbans1/Desktop/TestProj/build/TestProj.build/Release-iphonesimulator/AppLogicTests.build/Objects-normal/i386/AppLogicTests.o36"5F4CDBCD-317F-4FFE-ACA7-5BE685827630-
-
-CCopyStringsFile /Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/AppLogicTests.octest/en.lproj/InfoPlist.strings AppLogicTests/en.lproj/InfoPlist.strings
-r0
-
-CGenerateDSYMFile /Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/AppLogicTests.octest.dSYM /Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/AppLogicTests.octest/AppLogicTests
-r0
-
-CLd /Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/AppLogicTests.octest/AppLogicTests normal i386
-s401049071.994143
-e401049072.017739
-r0
-xLd
-x/Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/AppLogicTests.octest/AppLogicTests
-xnormal
-xi386
-oUndefined symbols for architecture i386:
-o  "_OBJC_CLASS_$_CalculatorTest", referenced from:
-o      objc-class-ref in AppLogicTests.o
-old: symbol(s) not found for architecture i386
-oclang: error: linker command failed with exit code 1 (use -v to see invocation)
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Link /Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/AppLogicTests.octest/AppLogicTestsc895feef85e7b741^ec8704f085e7b741^-258"Undefined symbols for architecture i386:  "_OBJC_CLASS_$_CalculatorTest", referenced from:      objc-class-ref in AppLogicTests.old: symbol(s) not found for architecture i386clang: error: linker command failed with exit code 1 (use -v to see invocation)4(21%IDEActivityLogMessage2@48""_OBJC_CLASS_$_CalculatorTest", referenced from:-401049072#41#51#-2#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--2@33"Objc-class-ref in AppLogicTests.o-401049072#92#40#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@41"Symbol(s) not found for architecture i386-401049072#132#46#-0#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@65"Linker command failed with exit code 1 (use -v to see invocation)-401049072#178#80#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--0#0#0#--1512"Ld build/Release-iphonesimulator/AppLogicTests.octest/AppLogicTests normal i386    cd /Users/vbans1/Desktop/TestProj    setenv IPHONEOS_DEPLOYMENT_TARGET 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -bundle -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -L/Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator -F/Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -filelist /Users/vbans1/Desktop/TestProj/build/TestProj.build/Release-iphonesimulator/AppLogicTests.build/Objects-normal/i386/AppLogicTests.LinkFileList -bundle_loader /Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/TestProj.app/TestProj -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.1 -framework SenTestingKit -framework UIKit -framework Foundation -o /Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/AppLogicTests.octest/AppLogicTests36"E1921119-87D4-4E4A-94CE-7D81C877E304-
-
-CPhaseScriptExecution "Run Script" /Users/vbans1/Desktop/TestProj/build/TestProj.build/Release-iphonesimulator/AppLogicTests.build/Script-A4F53B8D17E76E2600815246.sh
-r0
-
-CProcessInfoPlistFile /Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/AppLogicTests.octest/Info.plist AppLogicTests/AppLogicTests-Info.plist
-s401049071.634841
-e401049071.648595
-r1
-xProcessInfoPlistFile
-x/Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/AppLogicTests.octest/Info.plist
-xAppLogicTests/AppLogicTests-Info.plist
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection46"Process AppLogicTests/AppLogicTests-Info.plist87a4a2ef85e7b741^7521a6ef85e7b741^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/Users/vbans1/Desktop/TestProj/AppLogicTests/AppLogicTests-Info.plist0000000000000000^615"ProcessInfoPlistFile build/Release-iphonesimulator/AppLogicTests.octest/Info.plist AppLogicTests/AppLogicTests-Info.plist    cd /Users/vbans1/Desktop/TestProj    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility AppLogicTests/AppLogicTests-Info.plist -expandbuildsettings -format binary -platform iphonesimulator -o /Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/AppLogicTests.octest/Info.plist36"D7B73D19-0DCC-46A0-B346-FAFAF18F06D2-
-
-CProcessPCH /var/folders/yk/lh113x4x5z5fnws_3m5ln6b9t_f044/C/com.apple.Xcode.1957101700/SharedPrecompiledHeaders/AppLogicTests-Prefix-crwhhxttyrxwllhftmitwjmlsdde/AppLogicTests-Prefix.pch.pth AppLogicTests/AppLogicTests-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
-s401049071.657605
-e401049071.909489
-r1
-xProcessPCH
-x/var/folders/yk/lh113x4x5z5fnws_3m5ln6b9t_f044/C/com.apple.Xcode.1957101700/SharedPrecompiledHeaders/AppLogicTests-Prefix-crwhhxttyrxwllhftmitwjmlsdde/AppLogicTests-Prefix.pch.pth
-xAppLogicTests/AppLogicTests-Prefix.pch
-xnormal
-xi386
-xobjective-c
-xcom.apple.compilers.llvm.clang.1_0.compiler
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Precompile AppLogicTests/AppLogicTests-Prefix.pch7c7ea8ef85e7b741^d0d3e8ef85e7b741^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/Users/vbans1/Desktop/TestProj/AppLogicTests/AppLogicTests-Prefix.pch0000000000000000^3810"ProcessPCH /var/folders/yk/lh113x4x5z5fnws_3m5ln6b9t_f044/C/com.apple.Xcode.1957101700/SharedPrecompiledHeaders/AppLogicTests-Prefix-crwhhxttyrxwllhftmitwjmlsdde/AppLogicTests-Prefix.pch.pth AppLogicTests/AppLogicTests-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/vbans1/Desktop/TestProj    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote /Users/vbans1/Desktop/TestProj/build/TestProj.build/Release-iphonesimulator/AppLogicTests.build/AppLogicTests-generated-files.hmap -I/Users/vbans1/Desktop/TestProj/build/TestProj.build/Release-iphonesimulator/AppLogicTests.build/AppLogicTests-own-target-headers.hmap -I/Users/vbans1/Desktop/TestProj/build/TestProj.build/Release-iphonesimulator/AppLogicTests.build/AppLogicTests-all-target-headers.hmap -iquote /Users/vbans1/Desktop/TestProj/build/TestProj.build/Release-iphonesimulator/AppLogicTests.build/AppLogicTests-project-headers.hmap -I/Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/vbans1/Desktop/TestProj/build/TestProj.build/Release-iphonesimulator/AppLogicTests.build/DerivedSources/i386 -I/Users/vbans1/Desktop/TestProj/build/TestProj.build/Release-iphonesimulator/AppLogicTests.build/DerivedSources -F/Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator -F/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/Developer/Library/Frameworks -F/Applications/Xcode.app/Contents/Developer/Library/Frameworks -DNS_BLOCK_ASSERTIONS=1 --serialize-diagnostics /var/folders/yk/lh113x4x5z5fnws_3m5ln6b9t_f044/C/com.apple.Xcode.1957101700/SharedPrecompiledHeaders/AppLogicTests-Prefix-crwhhxttyrxwllhftmitwjmlsdde/AppLogicTests-Prefix.pch.dia -c /Users/vbans1/Desktop/TestProj/AppLogicTests/AppLogicTests-Prefix.pch -o /var/folders/yk/lh113x4x5z5fnws_3m5ln6b9t_f044/C/com.apple.Xcode.1957101700/SharedPrecompiledHeaders/AppLogicTests-Prefix-crwhhxttyrxwllhftmitwjmlsdde/AppLogicTests-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/yk/lh113x4x5z5fnws_3m5ln6b9t_f044/C/com.apple.Xcode.1957101700/SharedPrecompiledHeaders/AppLogicTests-Prefix-crwhhxttyrxwllhftmitwjmlsdde/AppLogicTests-Prefix.pch.d36"00926A74-0A2F-455D-B6C1-869702DA9182-
-
-CTouch /Users/vbans1/Desktop/TestProj/build/Release-iphonesimulator/AppLogicTests.octest
-r0
-
